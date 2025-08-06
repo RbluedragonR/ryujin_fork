@@ -140,7 +140,7 @@
                                     alt: "omikami"
                                 })
                             }), (0, e.jsx)(u.Z, {
-                                text: "Guardian of Omikami Ecosystem",
+                                text: "Guardian of RyuJin Ecosystem",
                                 className: h().first__content__block__title
                             })]
                         }), (0, e.jsxs)("div", {
@@ -488,10 +488,10 @@
                             children: [(0, e.jsxs)("div", {
                                 className: S().box,
                                 children: [(0, e.jsx)(A, {
-                                    title: "Buy Tax:",
+                                    title: "Buy:",
                                     text: "0%"
                                 }), (0, e.jsx)(A, {
-                                    title: "Sell Tax:",
+                                    title: "Sell :",
                                     text: "0%"
                                 })]
                             }), (0, e.jsx)(A, {
